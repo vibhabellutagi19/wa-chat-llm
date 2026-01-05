@@ -219,14 +219,6 @@ Change `OPENAI_MODEL` in your `.env` file to use a different GPT model.
 
 ## Development
 
-### Running Tests
-
-```bash
-pytest
-```
-
-### Code Quality
-
 ```bash
 # Format code
 black .
@@ -237,7 +229,3 @@ mypy .
 # Linting
 ruff check .
 ```
-
-## License
-
-MIT
