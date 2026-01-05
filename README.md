@@ -130,6 +130,11 @@ uvicorn app:app --host 0.0.0.0 --port 8000
 curl -X POST "http://localhost:8000/send-message?phone_number=+1234567890&message=Hello"
 ```
 
+#### Via whatsapp
+
+1. Open a WhatsApp chat with your Twilio number
+2. Send a message like "Hello, What is Apache Spark?"
+
 ## Usage
 
 1. Start the server
