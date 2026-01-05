@@ -1,4 +1,4 @@
-# Twilio WhatsApp LLM Bot
+# WhatsApp Chat Bot
 
 A WhatsApp chatbot powered by Twilio and OpenAI, specialized in data engineering expertise. The bot maintains conversation context and provides concise, expert answers.
 
